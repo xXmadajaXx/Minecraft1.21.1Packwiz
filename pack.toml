@@ -1,0 +1,13 @@
+name = "Minecraft1.21.1Packwiz"
+author = "mdjnico"
+version = "1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "53564e9205e73c44a82aa54eef4256be4f95285e6b0bd696b28929589236f518"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.11.42"
