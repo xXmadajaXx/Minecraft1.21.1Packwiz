@@ -31,6 +31,11 @@ hash = "59ef95f3ffc0a9f5a4d3be82d09c5f2608c83fc7a4b9dd4ef4eb0070d15d11b7"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+metafile = true
+
+[[files]]
 file = "mods/armory-rpg-series.pw.toml"
 hash = "a4c9207aac3667fd2021bba2879b8407d5f6609b34f2f1c8fea70d9fa302b093"
 metafile = true
@@ -387,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "4f4f7e84f1efb76998b0f41bf01799ae9182e180a1343a20f8c2c2325672c9ed"
+hash = "c05fa3fa9bc5700104d928b616b15e70d441085dd060c6501122747dc3805de1"
 metafile = true
 
 [[files]]
