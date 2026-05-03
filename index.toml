@@ -392,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "c05fa3fa9bc5700104d928b616b15e70d441085dd060c6501122747dc3805de1"
+hash = "4f4f7e84f1efb76998b0f41bf01799ae9182e180a1343a20f8c2c2325672c9ed"
 metafile = true
 
 [[files]]
@@ -467,12 +467,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "51e113db28616989d3a8646ab42f253b768e3b1877611da64cc52fe91aa93b3e"
+hash = "bce52f752c8d3bae9ed17dba8f96ec7ff3f1ab7032fe2258a9573e1a8657bb85"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "d519722584a98fa191556dc4c5be03215c89863e46d373517209527cf7c0df26"
+hash = "46c730cdb8bb0eef1fff5faa82403d399ec933400a003e4eeb215cd328e96f11"
 metafile = true
 
 [[files]]
