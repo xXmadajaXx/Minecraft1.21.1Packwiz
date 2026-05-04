@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-dreams-and-desires.pw.toml"
-hash = "df536f068808076c24dac917d86d581886ae5fb912672ec949d9c71a1a7a7fb7"
+hash = "c308b557b01b6e6cc25ee8d6a1a7c78bca2b71be3ae645e40d10cf25259fabcd"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-ultimate-factory.pw.toml"
-hash = "e002fe71d2ddab09d22e9def9aef6cfc4decfcf372ca40c9cb4d7987f3190fad"
+hash = "34d808989e71221b8e01a44bc8031f20af1c94981acb0cba4669e0e58be69629"
 metafile = true
 
 [[files]]
@@ -262,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "2d8851064615dc41a2cbe0734b130f1851cf9f360403b13dfaa303e95b8b81a5"
+hash = "56cb2e8e396bf26b56ffe0a44c794984435c35e15959ff46539bb8aead85ad77"
 metafile = true
 
 [[files]]
@@ -283,6 +283,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
 metafile = true
 
 [[files]]
@@ -377,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "4f4f7e84f1efb76998b0f41bf01799ae9182e180a1343a20f8c2c2325672c9ed"
+hash = "3b7f0351a2473f8c3f8211539bc3ca1aa065acf90f3e3b5e8b68a433fc6ed21f"
 metafile = true
 
 [[files]]
@@ -457,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "46c730cdb8bb0eef1fff5faa82403d399ec933400a003e4eeb215cd328e96f11"
+hash = "837c0b55831062fffd281e63b5381a56bf3aa76aebc974a2f56fef3b2e3d1c06"
 metafile = true
 
 [[files]]
@@ -487,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "583bdc838c2757d101b40b44a9bcc7ffe7d409fa3683691b431e3812dab3e5ad"
+hash = "ec7a83525d0e5e848acd1dbac0b24526cbc89604bbc44b29d09910dfd5f87ab2"
 metafile = true
 
 [[files]]
