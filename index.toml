@@ -381,11 +381,6 @@ hash = "6c600fe7b0789b7501968f57bb33b526e8c711dc6305f64b406abccfbdb971d5"
 metafile = true
 
 [[files]]
-file = "mods/moonlight.pw.toml"
-hash = "3b7f0351a2473f8c3f8211539bc3ca1aa065acf90f3e3b5e8b68a433fc6ed21f"
-metafile = true
-
-[[files]]
 file = "mods/more-rpg-library.pw.toml"
 hash = "581fba46626771293e5bb82e0384bdaac57e734602956f5c2a25897eb1dab794"
 metafile = true
@@ -488,11 +483,6 @@ metafile = true
 [[files]]
 file = "mods/structure-pool-api.pw.toml"
 hash = "b43fd8343ee66b129ea22bcd7ba47ad392e7edc33cb24be0ed604b2225ed0229"
-metafile = true
-
-[[files]]
-file = "mods/supplementaries.pw.toml"
-hash = "ec7a83525d0e5e848acd1dbac0b24526cbc89604bbc44b29d09910dfd5f87ab2"
 metafile = true
 
 [[files]]
