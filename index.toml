@@ -461,11 +461,6 @@ hash = "2b20f4d643cad01eaffaeb1602d9af25195e133e9b94ac96d1a3a0bed2c83086"
 metafile = true
 
 [[files]]
-file = "mods/sable.pw.toml"
-hash = "e4c43e944439f4941ba1c417ab3ac1ec3dbd9c95a8456a2069641d031317e142"
-metafile = true
-
-[[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
