@@ -1,13 +1,13 @@
 name = "Ender IO"
-filename = "enderio-8.2.7-beta.jar"
+filename = "enderio-8.2.8-beta.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/49ZofO4f/versions/eZLhhXlc/enderio-8.2.7-beta.jar"
+url = "https://cdn.modrinth.com/data/49ZofO4f/versions/LKfFVP68/enderio-8.2.8-beta.jar"
 hash-format = "sha512"
-hash = "1847f271e45b0538eafab150ac0dbd20f783df25e440ddbf03788ea594193fbdf096e718329363be4c84ff3b8c800eb3dc84f60336b6dfebd0a155a9d27ebdd8"
+hash = "d3ca3075f49ae5fa02e7ab3fae77c10f8977b8f4f909c7d83810299dd96fa7b12a170eebc66acfe42c5824eae85ad2c05e50b0163688d0a7f87677e031ae27d8"
 
 [update]
 [update.modrinth]
 mod-id = "49ZofO4f"
-version = "eZLhhXlc"
+version = "LKfFVP68"
